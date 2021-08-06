@@ -5,7 +5,6 @@
 🤔 I’m looking for help with how to start ML or DL based projects
 💬 Ask me about anything to do with robots
 📫 How to reach me: instagram: @sacchinbhg
-😄 Pronouns: He/Him
 <!--
 **sacchinbhg/sacchinbhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
