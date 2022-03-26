@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **sacchinsundar.g2020@vitstudent.ac.in**
 
+I am an enthusiastic engineering student with a desire to apply the concepts I have learnt to real-time, scalable solutions. Currently, I am exploring new areas of research in Robotic System frameworks and Machine Learning/Deep Learning algorithms to be applied in an underwater autonomous vehicle. I am looking out for development opportunities in these fields and am constantly attempting to develop newer, practical solutions in these areas.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sacchin-sundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sacchin-sundar" height="30" width="40" /></a>
