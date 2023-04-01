@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **ML, DL and robotics projects**
 
-- 📫 How to reach me **sacchinsundar.g2020@vitstudent.ac.in**
+- 📫 How to reach me **sacchin2@gmail.com**
 
 I am an enthusiastic engineering student with a desire to apply the concepts I have learnt to real-time, scalable solutions. Currently, I am exploring new areas of research in Robotic System frameworks and Machine Learning/Deep Learning algorithms to be applied to increase agility of robots. I am looking out for development opportunities in these fields and am constantly attempting to develop newer, practical solutions in these areas.
 
