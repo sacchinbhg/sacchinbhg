@@ -9,7 +9,7 @@
 
 I am an enthusiastic engineering student with a desire to apply the concepts I have learnt to real-time, scalable solutions. Currently, I am exploring new areas of research in Robotic System frameworks and Machine Learning/Deep Learning algorithms to be applied to increase agility of robots. I am looking out for development opportunities in these fields and am constantly attempting to develop newer, practical solutions in these areas.
 
-<h1 align="center">![](https://komarev.com/ghpvc/?username=sacchinbhg&style=flat-square)
+<h1 align="center"> ![](https://komarev.com/ghpvc/?username=sacchinbhg&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
