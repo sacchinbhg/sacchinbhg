@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sacchin Sundar</h1>
 <h3 align="center">Just another overambitious lad</h3>
+![](https://komarev.com/ghpvc/?username=sacchinbhg&style=flat-square)
 
 - 🔭 I’m currently working on **Autonomous Underwater Vehicle**
 
@@ -8,8 +9,6 @@
 - 📫 How to reach me **sacchin2@gmail.com**
 
 I am an enthusiastic engineering student with a desire to apply the concepts I have learnt to real-time, scalable solutions. Currently, I am exploring new areas of research in Robotic System frameworks and Machine Learning/Deep Learning algorithms to be applied to increase agility of robots. I am looking out for development opportunities in these fields and am constantly attempting to develop newer, practical solutions in these areas.
-
-<h1 align="center"> ![](https://komarev.com/ghpvc/?username=sacchinbhg&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
