@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sacchinbhg&style=flat-square)
 
-- 🔭 I’m currently working on **Autonomous Underwater Vehicle**
+- 🔭 I’m currently working on **Robot Learning Algorithms**
 
 - 👯 I’m looking to collaborate on **ML, DL and robotics projects**
 
