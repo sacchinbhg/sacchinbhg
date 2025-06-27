@@ -7,9 +7,11 @@
 
 - 👯 I’m looking to collaborate on **ML, DL and robotics projects**
 
-- 📫 How to reach me **sacchin2@gmail.com**
+- 📫 How to reach me **sacchin@umich.edu**
 
-I am an enthusiastic engineering student with a desire to apply the concepts I have learnt to real-time, scalable solutions. Currently, I am exploring new areas of research in Robotic System frameworks and Machine Learning/Deep Learning algorithms to be applied to increase agility of robots. I am looking out for development opportunities in these fields and am constantly attempting to develop newer, practical solutions in these areas.
+I'm a graduate student in robotics at the University of Michigan, working at the intersection of **robotics**, **machine learning**, and **underwater perception**. My research focuses on using neural implicit representations (like SIREN and NeRF variants) for sonar-based bathymetry, 3D scene reconstruction, and underwater image correction. I develop systems that fuse physics-based modeling with deep learning to better handle underwater constraints like attenuation and backscatter.
+
+Beyond this, I'm actively involved in robotics education, contributing to outreach events!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
