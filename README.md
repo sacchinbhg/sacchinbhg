@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **sacchin@umich.edu**
 
-I'm a graduate student in robotics at the University of Michigan, working at the intersection of **robotics**, **machine learning**, and **underwater perception**. My research focuses on using neural implicit representations (like SIREN and NeRF variants) for sonar-based bathymetry, 3D scene reconstruction, and underwater image correction. I develop systems that fuse physics-based modeling with deep learning to better handle underwater constraints like attenuation and backscatter.
+I'm a graduate student in robotics at the University of Michigan, working at the intersection of **robotics**, **machine learning**, and **underwater perception**. My research focuses on using neural implicit representations using real world data. I develop systems that fuse physics-based modeling with deep learning.
 
-Beyond this, I'm actively involved in robotics education, contributing to outreach events!
+Beyond this, I'm actively involved in robotics education, contributing to outreach events! Reach out if there is anyway I can help!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
